@@ -9,14 +9,14 @@ collections:
     title: Uploads
     output: true
 email: 
-description: Tet.ai
+description: Tet.ai create chatbots to train people-smart staff.
 baseurl: 
-url: https://tet-ai.github.io/
+url: https://www.tet.ai
 social:
 - title: twitter
-  url: https://twitter.com/user
+  url: https://twitter.com/tet_ai
 - title: facebook
-  url: https://facebook.com/user
+  url: https://www.facebook.com/wearetet
 - title: google-plus
   url: https://plus.google.com/+user
 markdown: kramdown
