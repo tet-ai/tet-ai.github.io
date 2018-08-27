@@ -10,7 +10,7 @@ collections:
     output: true
 email: 
 description: Tet.ai
-baseurl: ''
+baseurl: 
 url: https://tet-ai.github.io/
 social:
 - title: twitter
