@@ -1,5 +1,5 @@
 ---
-title: Tet.ai
+title: 'Tet.ai: Training with AI'
 timezone: UTC
 collections:
   posts:
@@ -9,7 +9,8 @@ collections:
     title: Uploads
     output: true
 email: 
-description: Tet.ai create chatbots to train people-smart staff.
+description: Tet.ai create chatbots to train people-smart staff. Sign up now to Tet's
+  Beta release of Patient Dock, software to train medics using AI.
 baseurl: 
 url: https://www.tet.ai
 social:
@@ -17,8 +18,6 @@ social:
   url: https://twitter.com/tet_ai
 - title: facebook
   url: https://www.facebook.com/wearetet
-- title: google-plus
-  url: https://plus.google.com/+user
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
