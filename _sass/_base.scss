@@ -388,6 +388,12 @@ section {
             background-color: #d73925;
           }
         }
+        &.social-github a {
+          background-color: #3F3D3D;
+          &:hover {
+            background-color: #323131;
+          }
+        }
       }
     }
   }
